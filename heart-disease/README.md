@@ -56,7 +56,7 @@ For recruiters, the following skills are demonstrated by this notebook. This lis
   - Multivariate analysis
     - Pearson correlation for identify the strength of linear relationships between numerical features and identifying multicollinearity.
     - Using boxplots to visualize possible relationships between categorical and continuous variables.
-    - Using scatterplots to visualize possible relationships between categorical and continuous variables.
+    - Using scatterplots to visualize possible relationships between continuous variables.
   - Visualization
     - Using Principal Component Analysis to compress high-dimensional data into 2D or 3D to have some limited visualization on its structure.
 - General programming skills
