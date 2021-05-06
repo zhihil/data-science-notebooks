@@ -1,15 +1,12 @@
-# Setup
-This repository uses Python's built-in venv to manage packages. 
+# Data Science Notebooks
 
-```bash
-source ./venv/bin/activate
-pip install -r requirements.txt
-```
+---
 
-# Project Descriptions
+## Overview
 
-### Titanic Deaths
+This is a mega-repo containing some of the data science-related projects I've done so far. There are two projects worth looking at:
 
-Data source:
- - [train](https://www.kaggle.com/c/titanic/data?select=train.csv)
- - [test](https://www.kaggle.com/c/titanic/data?select=test.csv)
+- `heart-disease` - Classification problem
+- `housing-price` - Regression problem
+
+Open the corresponding folders to see the individual project READMEs for more information.
