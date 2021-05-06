@@ -10,8 +10,12 @@ The notebook is for the [Housing Prices - Advanced Regression Techniques](https:
 
 ## Setup
 
-This notebook will be easiest to run on [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
-.
+You can view (but not write) the notebooks on [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) using the following links:
+
+- `model-selection` - [link](https://colab.research.google.com/drive/1w5AIptS1EI7Cffw19Kqe3bAdqBHgRMQu?usp=sharing)
+- `eda` - [link](https://colab.research.google.com/drive/18rJe-y9QW6VWWT8UkdoWCXaG7uEgRlsL)
+
+If you want to run this notebook, then you'll have to download the data and setup the proper folder structure.
 
 1. Open this share [link](https://colab.research.google.com/drive/1w5AIptS1EI7Cffw19Kqe3bAdqBHgRMQu?usp=sharing) to see the `model-selection.ipynb` file on Google Colab.
 2. Click File > Save a copy in Drive to duplicate the `model-selection.ipynb` the Jupyter Notebook to your personal drive.
